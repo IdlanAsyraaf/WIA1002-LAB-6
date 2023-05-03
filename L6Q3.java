@@ -3,7 +3,7 @@ package pkg2023l6;
 import java.util.Random;
 import java.util.Stack;
 
-public class L6Q1 {
+public class L6Q3 {
     public static void main(String[] args) {
         Stack<Integer> stack = new Stack<>();
         Random random = new Random();
